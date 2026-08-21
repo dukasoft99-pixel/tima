@@ -26,8 +26,8 @@ ADMIN_CHAT_ID = 8018004797  # например 123456789
 LOG_CHAT_ID = -1004341731031
 
 PRICE_USD = "0.10"
-BANK_NAME = "Название банка"
-CARD_NUMBER = "0000 0000 0000 0000"
+BANK_NAME = "OzonBank"
+CARD_NUMBER = "2204320674827466"
 SUPPORT_USERNAME = "@sam0end"
 
 # ID приватного чата, доступ в который продаётся. Бот должен быть добавлен туда
