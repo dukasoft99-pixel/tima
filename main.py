@@ -28,7 +28,7 @@ LOG_CHAT_ID = -1004341731031
 PRICE_USD = "0.10"
 BANK_NAME = "Название банка"
 CARD_NUMBER = "0000 0000 0000 0000"
-SUPPORT_USERNAME = "@your_support"
+SUPPORT_USERNAME = "@sam0end"
 
 # ID приватного чата, доступ в который продаётся. Бот должен быть добавлен туда
 # админом с правом "Invite Users via Link". Формат: -100xxxxxxxxxx (супергруппа/канал).
